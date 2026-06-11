@@ -101,16 +101,3 @@ npm run server:dev    # Start backend with hot reload
 npm run build         # Build for production
 npm run lint          # Run ESLint
 ```
-
----
-
-## What I Learned
-
-This project helped me understand:
-- Real-time bidirectional communication with WebSockets (Socket.io)
-- Event-driven architecture for synchronizing state across clients
-- Full-stack development with React frontend and Node.js backend
-- Handling concurrent user sessions and state consistency
-- UI/UX for collaborative applications
-
----
